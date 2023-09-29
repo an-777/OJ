@@ -1,3 +1,9 @@
+// Problem: 264 - Count on Cantor
+// Contest: UVa
+// URL: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=200
+// Memory Limit: 
+// Time Limit: 3000 ms
+// O(N)
 #include <iostream>
 #include <stdio.h>
 using namespace std;
