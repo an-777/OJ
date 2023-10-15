@@ -3,7 +3,6 @@
 // URL: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=424
 // Memory Limit: 
 // Time Limit: 3000 ms
-// O(N)
 
 #include <iostream>
 using namespace std;
