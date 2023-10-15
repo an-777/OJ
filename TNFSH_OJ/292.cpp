@@ -3,7 +3,7 @@
 // URL: https://toj.tfcis.org/oj/chal/171343/
 // Memory Limit: 65536 kB
 // Time Limit: 1000 ms
-// O(N)
+
 #include <iostream>
 using namespace std;
 int main(){
