@@ -3,7 +3,6 @@
 // URL: https://open.kattis.com/problems/drunkvigenere?tab=submissionsorg/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=325
 // Memory Limit: 1024 mb
 // Time Limit: 1000 ms
-//O(1)
 
 #include <iostream>
 using namespace std;
