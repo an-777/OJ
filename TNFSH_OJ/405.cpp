@@ -1,4 +1,4 @@
-// Problem: 405 / B. 自戀數 (chals)
+// Problem: 405 / B. 自戀數
 // Contest: TNFSH Online Judge
 // URL: https://toj.tfcis.org/oj/chal/172514/
 // Memory Limit: 524288 Kb
