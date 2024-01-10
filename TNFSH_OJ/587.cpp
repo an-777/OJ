@@ -3,8 +3,7 @@
 using namespace std;
 
 int main(){
-	int n = 5;
-	while(n--){
-		cout << 4 - n << "\n";
+	for(int i = 0 ; i < 5 ; i++){
+		cout << i << "\n";
 	}
 }
