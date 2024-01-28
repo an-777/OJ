@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <stdio.h>
 using namespace std;
 int pry[100000];
 int aryn[100000];
@@ -15,13 +15,13 @@ int main(){
 	int n, m;
 	while(cin >> n >> m){
 		for(int i = 0 ; i < n ; i++){
-			cin >> aryn[i];
+			scanf("%d",&aryn[i]);
 		}
 		pre(n);
 		int x, y;
 		while(m--){
-			cin >> x >> y;
-			cout << pry[y] - pry[x-1] << "\n";
+			scanf("%d %d",&x,&y);
+			printf("%d\n",pry[y] - pry[x-1]);
 		}
 	}
 	
